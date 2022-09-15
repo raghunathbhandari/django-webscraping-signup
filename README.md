@@ -5,7 +5,8 @@ A Brief example for webscraping, own Token/Key generation and Email handeling
 - Email handeling using Gmail SMTP
 - BeatifulSoap
 - Django setup
-- 
+- UID Generate and save in your own table
+- UID update tracking
 - HTML, CSS, Bootstrap (Navbar, Carousel, Footer, Form Controls)
 - Database (SQLite)
 
